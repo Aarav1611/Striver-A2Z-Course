@@ -12,7 +12,6 @@ I’m using this sheet to build a strong foundation in Data Structures and Algor
 - Trees, Graphs, DP, and more
 
 ### 💻 Language Used:
-- C++ *(or your language of choice)*
-
+- C++ 
 This is my personal journey to improve problem-solving skills and become placement-ready.
 
